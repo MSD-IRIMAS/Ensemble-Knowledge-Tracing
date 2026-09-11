@@ -1,0 +1,13 @@
+{
+    "model": "LSTM",
+    "dataset": "synthetic",
+    "n_runs": 3,
+    "avg_auc": 0.8,
+    "std_auc": 0.004714045207910321,
+    "avg_f1": 0.79,
+    "std_f1": 0.0,
+    "avg_accuracy": 0.8000000000000002,
+    "std_accuracy": 1.1102230246251565e-16,
+    "avg_training_time": 34.63759994506836,
+    "avg_inference_time": 0.8185554345448812
+}

@@ -1,0 +1,13 @@
+{
+    "model": "RNN",
+    "dataset": "bridge_algebra06",
+    "n_runs": 3,
+    "avg_auc": 0.67,
+    "std_auc": 1.1102230246251565e-16,
+    "avg_f1": 0.89,
+    "std_f1": 0.0,
+    "avg_accuracy": 0.85,
+    "std_accuracy": 0.0,
+    "avg_training_time": 191.10502783457437,
+    "avg_inference_time": 2.744879404703776
+}

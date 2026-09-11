@@ -1,0 +1,13 @@
+{
+    "model": "DKVMN",
+    "dataset": "assist2015",
+    "n_runs": 3,
+    "avg_auc": 0.7600000000000001,
+    "std_auc": 1.1102230246251565e-16,
+    "avg_f1": 0.83,
+    "std_f1": 0.0,
+    "avg_accuracy": 0.7399999999999999,
+    "std_accuracy": 1.1102230246251565e-16,
+    "avg_training_time": 1539.4824415047963,
+    "avg_inference_time": 11.185702085494995
+}

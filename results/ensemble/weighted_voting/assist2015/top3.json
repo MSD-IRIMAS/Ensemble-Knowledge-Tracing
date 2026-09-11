@@ -1,0 +1,17 @@
+{
+    "auc": 0.7573,
+    "f1": 0.8373,
+    "accuracy": 0.7372,
+    "weights": {
+        "SAKT": 0.87,
+        "DKVMN": 0.76,
+        "FCN": 0.75
+    },
+    "dataset": "assist2015",
+    "group": "top3",
+    "models": [
+        "SAKT",
+        "DKVMN",
+        "FCN"
+    ]
+}

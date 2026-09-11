@@ -1,0 +1,13 @@
+{
+    "model": "DKTPlus",
+    "dataset": "assistChall",
+    "n_runs": 3,
+    "avg_auc": 0.69,
+    "std_auc": 0.0,
+    "avg_f1": 0.4266666666666667,
+    "std_f1": 0.0262466929133727,
+    "avg_accuracy": 0.6233333333333334,
+    "std_accuracy": 0.018856180831641284,
+    "avg_training_time": 247.14174660046896,
+    "avg_inference_time": 2.9841322898864746
+}

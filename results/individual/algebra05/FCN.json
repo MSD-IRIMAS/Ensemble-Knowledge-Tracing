@@ -1,0 +1,13 @@
+{
+    "model": "FCN",
+    "dataset": "algebra05",
+    "n_runs": 3,
+    "avg_auc": 0.78,
+    "std_auc": 0.0,
+    "avg_f1": 0.88,
+    "std_f1": 0.0,
+    "avg_accuracy": 0.81,
+    "std_accuracy": 0.0,
+    "avg_training_time": 108.51014733314514,
+    "avg_inference_time": 1.0387572447458904
+}

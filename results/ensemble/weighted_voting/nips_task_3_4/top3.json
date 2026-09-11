@@ -1,0 +1,17 @@
+{
+    "auc": 0.7558,
+    "f1": 0.7322,
+    "accuracy": 0.6915,
+    "weights": {
+        "KQN": 0.77,
+        "LSTM": 0.76,
+        "RNN": 0.74
+    },
+    "dataset": "nips_task_3_4",
+    "group": "top3",
+    "models": [
+        "KQN",
+        "LSTM",
+        "RNN"
+    ]
+}

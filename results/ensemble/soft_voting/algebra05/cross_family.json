@@ -1,0 +1,13 @@
+{
+    "auc": 0.833,
+    "f1": 0.8877,
+    "accuracy": 0.8183,
+    "dataset": "algebra05",
+    "group": "cross_family",
+    "models": [
+        "LSTM",
+        "SAKT",
+        "DKVMN",
+        "KQN"
+    ]
+}

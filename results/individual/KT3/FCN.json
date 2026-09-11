@@ -1,0 +1,13 @@
+{
+    "model": "FCN",
+    "dataset": "KT3",
+    "n_runs": 3,
+    "avg_auc": 0.78,
+    "std_auc": 0.004714045207910321,
+    "avg_f1": 0.6066666666666666,
+    "std_f1": 0.016996731711975962,
+    "avg_accuracy": 0.57,
+    "std_accuracy": 0.0,
+    "avg_training_time": 411.699200630188,
+    "avg_inference_time": 0.7402012348175049
+}

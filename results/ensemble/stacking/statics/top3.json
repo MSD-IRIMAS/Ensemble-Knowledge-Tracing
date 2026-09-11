@@ -1,0 +1,17 @@
+{
+    "auc": 0.8465,
+    "f1": 0.884,
+    "accuracy": 0.811,
+    "meta_weights": {
+        "KQN": 5.7898,
+        "LSTM": 2.6669,
+        "DKVMN": -2.5948
+    },
+    "dataset": "statics",
+    "group": "top3",
+    "models": [
+        "KQN",
+        "LSTM",
+        "DKVMN"
+    ]
+}

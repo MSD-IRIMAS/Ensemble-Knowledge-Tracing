@@ -1,0 +1,12 @@
+{
+    "auc": 0.8241,
+    "f1": 0.6879,
+    "accuracy": 0.5692,
+    "dataset": "KT2",
+    "group": "rnn_family",
+    "models": [
+        "RNN",
+        "LSTM",
+        "DKTPlus"
+    ]
+}

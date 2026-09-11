@@ -1,0 +1,14 @@
+{
+    "auc": 0.7024,
+    "f1": 0.409,
+    "accuracy": 0.6848,
+    "dataset": "assistChall",
+    "group": "diverse",
+    "models": [
+        "LSTM",
+        "SAKT",
+        "DKVMN",
+        "FCN",
+        "KQN"
+    ]
+}

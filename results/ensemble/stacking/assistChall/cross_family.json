@@ -1,0 +1,19 @@
+{
+    "auc": 0.7172,
+    "f1": 0.4719,
+    "accuracy": 0.6882,
+    "meta_weights": {
+        "LSTM": 0.0425,
+        "SAKT": 3.8183,
+        "DKVMN": -1.9244,
+        "KQN": 3.7209
+    },
+    "dataset": "assistChall",
+    "group": "cross_family",
+    "models": [
+        "LSTM",
+        "SAKT",
+        "DKVMN",
+        "KQN"
+    ]
+}

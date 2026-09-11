@@ -1,0 +1,13 @@
+{
+    "model": "SAKT",
+    "dataset": "assistChall",
+    "n_runs": 3,
+    "avg_auc": 0.64,
+    "std_auc": 0.0,
+    "avg_f1": 0.42,
+    "std_f1": 0.014142135623730965,
+    "avg_accuracy": 0.64,
+    "std_accuracy": 0.014142135623730965,
+    "avg_training_time": 243.55729993184408,
+    "avg_inference_time": 3.131077289581299
+}

@@ -1,0 +1,12 @@
+{
+    "auc": 0.8252,
+    "f1": 0.8854,
+    "accuracy": 0.8148,
+    "dataset": "algebra05",
+    "group": "rnn_family",
+    "models": [
+        "RNN",
+        "LSTM",
+        "DKTPlus"
+    ]
+}

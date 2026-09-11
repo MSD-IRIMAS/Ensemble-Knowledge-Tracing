@@ -1,0 +1,17 @@
+{
+    "auc": 0.833,
+    "f1": 0.8837,
+    "accuracy": 0.8171,
+    "meta_weights": {
+        "DKVMN": -0.5525,
+        "KQN": 1.6948,
+        "DKTPlus": 4.8794
+    },
+    "dataset": "spanish",
+    "group": "top3",
+    "models": [
+        "DKVMN",
+        "KQN",
+        "DKTPlus"
+    ]
+}

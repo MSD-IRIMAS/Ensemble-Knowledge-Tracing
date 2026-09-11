@@ -1,0 +1,25 @@
+{
+    "auc": 0.8302,
+    "f1": 0.8868,
+    "accuracy": 0.8163,
+    "weights": {
+        "RNN": 0.79,
+        "LSTM": 0.79,
+        "FCN": 0.78,
+        "DKVMN": 0.83,
+        "SAKT": 0.77,
+        "DKTPlus": 0.79,
+        "KQN": 0.82
+    },
+    "dataset": "algebra05",
+    "group": "all_models",
+    "models": [
+        "RNN",
+        "LSTM",
+        "FCN",
+        "DKVMN",
+        "SAKT",
+        "DKTPlus",
+        "KQN"
+    ]
+}

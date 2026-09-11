@@ -1,0 +1,13 @@
+{
+    "model": "FCN",
+    "dataset": "assist2009",
+    "n_runs": 3,
+    "avg_auc": 0.81,
+    "std_auc": 0.0,
+    "avg_f1": 0.82,
+    "std_f1": 0.0,
+    "avg_accuracy": 0.79,
+    "std_accuracy": 0.0,
+    "avg_training_time": 851.134923696518,
+    "avg_inference_time": 9.70324190457662
+}

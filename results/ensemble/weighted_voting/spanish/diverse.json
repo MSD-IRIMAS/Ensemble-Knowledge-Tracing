@@ -1,0 +1,21 @@
+{
+    "auc": 0.8416,
+    "f1": 0.8884,
+    "accuracy": 0.8217,
+    "weights": {
+        "LSTM": 0.79,
+        "SAKT": 0.77,
+        "DKVMN": 0.83,
+        "FCN": 0.75,
+        "KQN": 0.83
+    },
+    "dataset": "spanish",
+    "group": "diverse",
+    "models": [
+        "LSTM",
+        "SAKT",
+        "DKVMN",
+        "FCN",
+        "KQN"
+    ]
+}

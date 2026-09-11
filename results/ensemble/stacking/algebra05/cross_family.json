@@ -1,0 +1,19 @@
+{
+    "auc": 0.8349,
+    "f1": 0.8859,
+    "accuracy": 0.8184,
+    "meta_weights": {
+        "LSTM": -0.4392,
+        "SAKT": 4.7172,
+        "DKVMN": -0.3376,
+        "KQN": 2.5623
+    },
+    "dataset": "algebra05",
+    "group": "cross_family",
+    "models": [
+        "LSTM",
+        "SAKT",
+        "DKVMN",
+        "KQN"
+    ]
+}

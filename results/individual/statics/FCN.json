@@ -1,0 +1,13 @@
+{
+    "model": "FCN",
+    "dataset": "statics",
+    "n_runs": 3,
+    "avg_auc": 0.8000000000000002,
+    "std_auc": 1.1102230246251565e-16,
+    "avg_f1": 0.88,
+    "std_f1": 0.0,
+    "avg_accuracy": 0.83,
+    "std_accuracy": 0.0,
+    "avg_training_time": 54.07687465349833,
+    "avg_inference_time": 1.172653039296468
+}

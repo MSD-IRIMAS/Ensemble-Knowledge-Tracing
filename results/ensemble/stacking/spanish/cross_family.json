@@ -1,0 +1,19 @@
+{
+    "auc": 0.8377,
+    "f1": 0.8851,
+    "accuracy": 0.8202,
+    "meta_weights": {
+        "LSTM": 0.3978,
+        "SAKT": 6.5197,
+        "DKVMN": -1.0682,
+        "KQN": 0.3355
+    },
+    "dataset": "spanish",
+    "group": "cross_family",
+    "models": [
+        "LSTM",
+        "SAKT",
+        "DKVMN",
+        "KQN"
+    ]
+}

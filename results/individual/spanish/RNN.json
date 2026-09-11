@@ -1,0 +1,13 @@
+{
+    "model": "RNN",
+    "dataset": "spanish",
+    "n_runs": 3,
+    "avg_auc": 0.79,
+    "std_auc": 0.004714045207910321,
+    "avg_f1": 0.8833333333333333,
+    "std_f1": 0.004714045207910321,
+    "avg_accuracy": 0.84,
+    "std_accuracy": 0.008164965809277268,
+    "avg_training_time": 112.54804340998332,
+    "avg_inference_time": 0.7455971240997314
+}

@@ -1,0 +1,17 @@
+{
+    "auc": 0.8479,
+    "f1": 0.8189,
+    "accuracy": 0.7703,
+    "weights": {
+        "DKVMN": 0.83,
+        "KQN": 0.83,
+        "SAKT": 0.81
+    },
+    "dataset": "synthetic",
+    "group": "top3",
+    "models": [
+        "DKVMN",
+        "KQN",
+        "SAKT"
+    ]
+}

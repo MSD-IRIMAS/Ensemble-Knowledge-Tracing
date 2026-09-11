@@ -1,0 +1,25 @@
+{
+    "auc": 0.8231,
+    "f1": 0.9109,
+    "accuracy": 0.848,
+    "meta_weights": {
+        "RNN": 3.8066,
+        "LSTM": -6.5273,
+        "FCN": -2.9903,
+        "DKVMN": -0.4292,
+        "SAKT": 6.9017,
+        "DKTPlus": 3.8066,
+        "KQN": 2.1435
+    },
+    "dataset": "kddcup2010",
+    "group": "all_models",
+    "models": [
+        "RNN",
+        "LSTM",
+        "FCN",
+        "DKVMN",
+        "SAKT",
+        "DKTPlus",
+        "KQN"
+    ]
+}

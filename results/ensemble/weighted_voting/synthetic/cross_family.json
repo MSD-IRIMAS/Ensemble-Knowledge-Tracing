@@ -1,0 +1,19 @@
+{
+    "auc": 0.8459,
+    "f1": 0.814,
+    "accuracy": 0.7676,
+    "weights": {
+        "LSTM": 0.8,
+        "SAKT": 0.81,
+        "DKVMN": 0.83,
+        "KQN": 0.83
+    },
+    "dataset": "synthetic",
+    "group": "cross_family",
+    "models": [
+        "LSTM",
+        "SAKT",
+        "DKVMN",
+        "KQN"
+    ]
+}

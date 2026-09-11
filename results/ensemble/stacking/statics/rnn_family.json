@@ -1,0 +1,17 @@
+{
+    "auc": 0.7923,
+    "f1": 0.8808,
+    "accuracy": 0.8033,
+    "meta_weights": {
+        "RNN": 1.8844,
+        "LSTM": 1.6294,
+        "DKTPlus": 1.8844
+    },
+    "dataset": "statics",
+    "group": "rnn_family",
+    "models": [
+        "RNN",
+        "LSTM",
+        "DKTPlus"
+    ]
+}

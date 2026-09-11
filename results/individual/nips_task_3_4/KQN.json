@@ -1,0 +1,13 @@
+{
+    "model": "KQN",
+    "dataset": "nips_task_3_4",
+    "n_runs": 3,
+    "avg_auc": 0.77,
+    "std_auc": 0.004714045207910321,
+    "avg_f1": 0.7200000000000001,
+    "std_f1": 0.014142135623730965,
+    "avg_accuracy": 0.73,
+    "std_accuracy": 0.021602468994692887,
+    "avg_training_time": 25.541325012842815,
+    "avg_inference_time": 0.07332754135131836
+}

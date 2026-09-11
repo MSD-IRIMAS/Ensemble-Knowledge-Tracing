@@ -1,0 +1,17 @@
+{
+    "auc": 0.8074,
+    "f1": 0.6019,
+    "accuracy": 0.5845,
+    "weights": {
+        "SAKT": 0.83,
+        "KQN": 0.82,
+        "RNN": 0.8
+    },
+    "dataset": "KT4",
+    "group": "top3",
+    "models": [
+        "SAKT",
+        "KQN",
+        "RNN"
+    ]
+}

@@ -1,0 +1,12 @@
+{
+    "auc": 0.8171,
+    "f1": 0.8838,
+    "accuracy": 0.807,
+    "dataset": "statics",
+    "group": "top3",
+    "models": [
+        "KQN",
+        "LSTM",
+        "DKVMN"
+    ]
+}

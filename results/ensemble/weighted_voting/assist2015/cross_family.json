@@ -1,0 +1,19 @@
+{
+    "auc": 0.7513,
+    "f1": 0.8365,
+    "accuracy": 0.738,
+    "weights": {
+        "LSTM": 0.71,
+        "SAKT": 0.87,
+        "DKVMN": 0.76,
+        "KQN": 0.7067
+    },
+    "dataset": "assist2015",
+    "group": "cross_family",
+    "models": [
+        "LSTM",
+        "SAKT",
+        "DKVMN",
+        "KQN"
+    ]
+}

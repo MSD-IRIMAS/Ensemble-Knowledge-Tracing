@@ -1,0 +1,21 @@
+{
+    "auc": 0.7527,
+    "f1": 0.7309,
+    "accuracy": 0.686,
+    "weights": {
+        "LSTM": 0.76,
+        "SAKT": 0.69,
+        "DKVMN": 0.71,
+        "FCN": 0.68,
+        "KQN": 0.77
+    },
+    "dataset": "nips_task_3_4",
+    "group": "diverse",
+    "models": [
+        "LSTM",
+        "SAKT",
+        "DKVMN",
+        "FCN",
+        "KQN"
+    ]
+}

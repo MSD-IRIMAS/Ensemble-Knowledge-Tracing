@@ -1,0 +1,13 @@
+{
+    "auc": 0.708,
+    "f1": 0.4211,
+    "accuracy": 0.6854,
+    "dataset": "assistChall",
+    "group": "cross_family",
+    "models": [
+        "LSTM",
+        "SAKT",
+        "DKVMN",
+        "KQN"
+    ]
+}

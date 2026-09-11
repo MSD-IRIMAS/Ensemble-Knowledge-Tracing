@@ -1,0 +1,14 @@
+{
+    "auc": 0.8306,
+    "f1": 0.887,
+    "accuracy": 0.8164,
+    "dataset": "algebra05",
+    "group": "diverse",
+    "models": [
+        "LSTM",
+        "SAKT",
+        "DKVMN",
+        "FCN",
+        "KQN"
+    ]
+}

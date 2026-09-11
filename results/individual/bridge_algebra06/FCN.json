@@ -1,0 +1,13 @@
+{
+    "model": "FCN",
+    "dataset": "bridge_algebra06",
+    "n_runs": 3,
+    "avg_auc": 0.69,
+    "std_auc": 0.0,
+    "avg_f1": 0.68,
+    "std_f1": 0.004714045207910321,
+    "avg_accuracy": 0.84,
+    "std_accuracy": 0.0,
+    "avg_training_time": 182.46281250317892,
+    "avg_inference_time": 2.897425651550293
+}

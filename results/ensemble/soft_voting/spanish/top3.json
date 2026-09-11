@@ -1,0 +1,12 @@
+{
+    "auc": 0.8352,
+    "f1": 0.8855,
+    "accuracy": 0.818,
+    "dataset": "spanish",
+    "group": "top3",
+    "models": [
+        "DKVMN",
+        "KQN",
+        "DKTPlus"
+    ]
+}

@@ -1,0 +1,17 @@
+{
+    "auc": 0.7035,
+    "f1": 0.4331,
+    "accuracy": 0.6824,
+    "weights": {
+        "KQN": 0.73,
+        "RNN": 0.69,
+        "DKTPlus": 0.69
+    },
+    "dataset": "assistChall",
+    "group": "top3",
+    "models": [
+        "KQN",
+        "RNN",
+        "DKTPlus"
+    ]
+}

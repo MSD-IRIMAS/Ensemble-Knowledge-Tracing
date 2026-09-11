@@ -1,0 +1,13 @@
+{
+    "model": "FCN",
+    "dataset": "spanish",
+    "n_runs": 3,
+    "avg_auc": 0.75,
+    "std_auc": 1.1102230246251565e-16,
+    "avg_f1": 0.87,
+    "std_f1": 0.0,
+    "avg_accuracy": 0.8000000000000002,
+    "std_accuracy": 1.1102230246251565e-16,
+    "avg_training_time": 103.87047799428304,
+    "avg_inference_time": 0.7459940115610758
+}

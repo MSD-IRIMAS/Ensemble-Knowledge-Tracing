@@ -1,0 +1,13 @@
+{
+    "model": "SAKT",
+    "dataset": "KT3",
+    "n_runs": 3,
+    "avg_auc": 0.84,
+    "std_auc": 0.004714045207910321,
+    "avg_f1": 0.6833333333333335,
+    "std_f1": 0.012472191289246433,
+    "avg_accuracy": 0.58,
+    "std_accuracy": 0.0,
+    "avg_training_time": 418.21438336372375,
+    "avg_inference_time": 0.7254894574483236
+}

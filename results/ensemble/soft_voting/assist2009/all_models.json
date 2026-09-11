@@ -1,0 +1,16 @@
+{
+    "auc": 0.8418,
+    "f1": 0.8601,
+    "accuracy": 0.7939,
+    "dataset": "assist2009",
+    "group": "all_models",
+    "models": [
+        "RNN",
+        "LSTM",
+        "FCN",
+        "DKVMN",
+        "SAKT",
+        "DKTPlus",
+        "KQN"
+    ]
+}

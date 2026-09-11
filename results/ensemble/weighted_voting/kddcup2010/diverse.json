@@ -1,0 +1,21 @@
+{
+    "auc": 0.8302,
+    "f1": 0.9139,
+    "accuracy": 0.8498,
+    "weights": {
+        "LSTM": 0.79,
+        "SAKT": 0.78,
+        "DKVMN": 0.82,
+        "FCN": 0.81,
+        "KQN": 0.82
+    },
+    "dataset": "kddcup2010",
+    "group": "diverse",
+    "models": [
+        "LSTM",
+        "SAKT",
+        "DKVMN",
+        "FCN",
+        "KQN"
+    ]
+}

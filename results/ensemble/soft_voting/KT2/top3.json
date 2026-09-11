@@ -1,0 +1,12 @@
+{
+    "auc": 0.8232,
+    "f1": 0.6989,
+    "accuracy": 0.5727,
+    "dataset": "KT2",
+    "group": "top3",
+    "models": [
+        "SAKT",
+        "RNN",
+        "LSTM"
+    ]
+}

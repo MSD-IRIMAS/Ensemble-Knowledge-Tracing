@@ -1,0 +1,13 @@
+{
+    "model": "SAKT",
+    "dataset": "assist2015",
+    "n_runs": 3,
+    "avg_auc": 0.87,
+    "std_auc": 0.004714045207910268,
+    "avg_f1": 0.83,
+    "std_f1": 0.0,
+    "avg_accuracy": 0.7733333333333334,
+    "std_accuracy": 0.012472191289246483,
+    "avg_training_time": 971.2123097578684,
+    "avg_inference_time": 9.166672150293985
+}

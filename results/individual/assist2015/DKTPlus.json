@@ -1,0 +1,13 @@
+{
+    "model": "DKTPlus",
+    "dataset": "assist2015",
+    "n_runs": 3,
+    "avg_auc": 0.73,
+    "std_auc": 1.1102230246251565e-16,
+    "avg_f1": 0.83,
+    "std_f1": 0.0,
+    "avg_accuracy": 0.7466666666666667,
+    "std_accuracy": 0.004714045207910321,
+    "avg_training_time": 970.4506418704987,
+    "avg_inference_time": 9.157189846038818
+}

@@ -1,0 +1,13 @@
+{
+    "model": "KQN",
+    "dataset": "synthetic",
+    "n_runs": 3,
+    "avg_auc": 0.83,
+    "std_auc": 0.0,
+    "avg_f1": 0.7966666666666667,
+    "std_f1": 0.004714045207910321,
+    "avg_accuracy": 0.7966666666666667,
+    "std_accuracy": 0.009428090415820642,
+    "avg_training_time": 11.088688373565674,
+    "avg_inference_time": 0.2186140219370524
+}

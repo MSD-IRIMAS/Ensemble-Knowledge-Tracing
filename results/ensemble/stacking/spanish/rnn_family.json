@@ -1,0 +1,17 @@
+{
+    "auc": 0.836,
+    "f1": 0.8846,
+    "accuracy": 0.8186,
+    "meta_weights": {
+        "RNN": 1.4233,
+        "LSTM": 3.1451,
+        "DKTPlus": 1.4233
+    },
+    "dataset": "spanish",
+    "group": "rnn_family",
+    "models": [
+        "RNN",
+        "LSTM",
+        "DKTPlus"
+    ]
+}

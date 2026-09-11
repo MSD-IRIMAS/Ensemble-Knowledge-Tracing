@@ -1,0 +1,13 @@
+{
+    "model": "SAKT",
+    "dataset": "bridge_algebra06",
+    "n_runs": 3,
+    "avg_auc": 0.69,
+    "std_auc": 0.004714045207910321,
+    "avg_f1": 0.89,
+    "std_f1": 0.0,
+    "avg_accuracy": 0.8533333333333334,
+    "std_accuracy": 0.004714045207910321,
+    "avg_training_time": 180.0287024974823,
+    "avg_inference_time": 2.9586480458577475
+}

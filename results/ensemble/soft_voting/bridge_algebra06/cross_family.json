@@ -1,0 +1,13 @@
+{
+    "auc": 0.7496,
+    "f1": 0.9112,
+    "accuracy": 0.8403,
+    "dataset": "bridge_algebra06",
+    "group": "cross_family",
+    "models": [
+        "LSTM",
+        "SAKT",
+        "DKVMN",
+        "KQN"
+    ]
+}

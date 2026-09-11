@@ -1,0 +1,17 @@
+{
+    "auc": 0.7324,
+    "f1": 0.8895,
+    "accuracy": 0.8077,
+    "weights": {
+        "RNN": 0.67,
+        "LSTM": 0.73,
+        "DKTPlus": 0.67
+    },
+    "dataset": "bridge_algebra06",
+    "group": "rnn_family",
+    "models": [
+        "RNN",
+        "LSTM",
+        "DKTPlus"
+    ]
+}

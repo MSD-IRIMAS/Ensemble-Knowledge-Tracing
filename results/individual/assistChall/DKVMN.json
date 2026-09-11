@@ -1,0 +1,13 @@
+{
+    "model": "DKVMN",
+    "dataset": "assistChall",
+    "n_runs": 3,
+    "avg_auc": 0.67,
+    "std_auc": 0.0,
+    "avg_f1": 0.41,
+    "std_f1": 0.0,
+    "avg_accuracy": 0.63,
+    "std_accuracy": 0.0,
+    "avg_training_time": 638.2441502412161,
+    "avg_inference_time": 4.384723504384358
+}

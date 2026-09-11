@@ -1,0 +1,19 @@
+{
+    "auc": 0.80,
+    "f1": 0.5942,
+    "accuracy": 0.5851,
+    "weights": {
+        "LSTM": 0.8,
+        "SAKT": 0.83,
+        "DKVMN": 0.8,
+        "KQN": 0.82
+    },
+    "dataset": "KT4",
+    "group": "cross_family",
+    "models": [
+        "LSTM",
+        "SAKT",
+        "DKVMN",
+        "KQN"
+    ]
+}

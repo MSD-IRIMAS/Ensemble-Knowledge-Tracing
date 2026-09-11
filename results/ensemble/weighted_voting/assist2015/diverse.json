@@ -1,0 +1,21 @@
+{
+    "auc": 0.7462,
+    "f1": 0.8365,
+    "accuracy": 0.7366,
+    "weights": {
+        "LSTM": 0.71,
+        "SAKT": 0.87,
+        "DKVMN": 0.76,
+        "FCN": 0.75,
+        "KQN": 0.7067
+    },
+    "dataset": "assist2015",
+    "group": "diverse",
+    "models": [
+        "LSTM",
+        "SAKT",
+        "DKVMN",
+        "FCN",
+        "KQN"
+    ]
+}

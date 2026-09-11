@@ -1,0 +1,19 @@
+{
+    "auc": 0.786,
+    "f1": 0.733,
+    "accuracy": 0.6895,
+    "weights": {
+        "LSTM": 0.76,
+        "SAKT": 0.69,
+        "DKVMN": 0.71,
+        "KQN": 0.77
+    },
+    "dataset": "nips_task_3_4",
+    "group": "cross_family",
+    "models": [
+        "LSTM",
+        "SAKT",
+        "DKVMN",
+        "KQN"
+    ]
+}

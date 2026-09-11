@@ -1,0 +1,17 @@
+{
+    "auc": 0.8444,
+    "f1": 0.8591,
+    "accuracy": 0.7924,
+    "meta_weights": {
+        "RNN": 0.1742,
+        "LSTM": 4.9054,
+        "DKTPlus": 0.1742
+    },
+    "dataset": "assist2009",
+    "group": "rnn_family",
+    "models": [
+        "RNN",
+        "LSTM",
+        "DKTPlus"
+    ]
+}

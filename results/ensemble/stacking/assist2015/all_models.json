@@ -1,0 +1,25 @@
+{
+    "auc": 0.7701,
+    "f1": 0.8343,
+    "accuracy": 0.7471,
+    "meta_weights": {
+        "RNN": -0.0232,
+        "LSTM": -1.0076,
+        "FCN": -0.92,
+        "DKVMN": -1.2284,
+        "SAKT": 5.0735,
+        "DKTPlus": -0.0232,
+        "KQN": 4.292
+    },
+    "dataset": "assist2015",
+    "group": "all_models",
+    "models": [
+        "RNN",
+        "LSTM",
+        "FCN",
+        "DKVMN",
+        "SAKT",
+        "DKTPlus",
+        "KQN"
+    ]
+}

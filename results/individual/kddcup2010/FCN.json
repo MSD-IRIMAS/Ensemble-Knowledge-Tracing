@@ -1,0 +1,13 @@
+{
+    "model": "FCN",
+    "dataset": "kddcup2010",
+    "n_runs": 3,
+    "avg_auc": 0.81,
+    "std_auc": 0.0,
+    "avg_f1": 0.91,
+    "std_f1": 0.0,
+    "avg_accuracy": 0.8566666666666666,
+    "std_accuracy": 0.004714045207910321,
+    "avg_training_time": 231.75541734695435,
+    "avg_inference_time": 2.127027988433838
+}

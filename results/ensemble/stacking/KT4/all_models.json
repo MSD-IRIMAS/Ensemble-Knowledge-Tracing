@@ -1,0 +1,25 @@
+{
+    "auc": 0.80,
+    "f1": 0.6054,
+    "accuracy": 0.5814,
+    "meta_weights": {
+        "RNN": -1.0089,
+        "LSTM": -0.2959,
+        "FCN": -1.422,
+        "DKVMN": -2.9628,
+        "SAKT": 6.2152,
+        "DKTPlus": -1.0089,
+        "KQN": 8.7625
+    },
+    "dataset": "KT4",
+    "group": "all_models",
+    "models": [
+        "RNN",
+        "LSTM",
+        "FCN",
+        "DKVMN",
+        "SAKT",
+        "DKTPlus",
+        "KQN"
+    ]
+}

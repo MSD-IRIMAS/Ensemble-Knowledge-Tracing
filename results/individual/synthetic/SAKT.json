@@ -1,0 +1,13 @@
+{
+    "model": "SAKT",
+    "dataset": "synthetic",
+    "n_runs": 3,
+    "avg_auc": 0.81,
+    "std_auc": 0.004714045207910321,
+    "avg_f1": 0.79,
+    "std_f1": 0.0,
+    "avg_accuracy": 0.7399999999999999,
+    "std_accuracy": 0.008164965809277268,
+    "avg_training_time": 35.69358197848002,
+    "avg_inference_time": 0.8630667527516683
+}

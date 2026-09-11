@@ -1,0 +1,25 @@
+{
+    "auc": 0.8417,
+    "f1": 0.8602,
+    "accuracy": 0.794,
+    "weights": {
+        "RNN": 0.83,
+        "LSTM": 0.82,
+        "FCN": 0.81,
+        "DKVMN": 0.85,
+        "SAKT": 0.86,
+        "DKTPlus": 0.83,
+        "KQN": 0.85
+    },
+    "dataset": "assist2009",
+    "group": "all_models",
+    "models": [
+        "RNN",
+        "LSTM",
+        "FCN",
+        "DKVMN",
+        "SAKT",
+        "DKTPlus",
+        "KQN"
+    ]
+}

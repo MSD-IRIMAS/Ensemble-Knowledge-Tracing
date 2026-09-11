@@ -1,0 +1,14 @@
+{
+    "auc": 0.7425,
+    "f1": 0.9108,
+    "accuracy": 0.8392,
+    "dataset": "bridge_algebra06",
+    "group": "diverse",
+    "models": [
+        "LSTM",
+        "SAKT",
+        "DKVMN",
+        "FCN",
+        "KQN"
+    ]
+}

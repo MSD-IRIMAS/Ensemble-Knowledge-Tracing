@@ -1,0 +1,14 @@
+{
+    "auc": 0.8314,
+    "f1": 0.7095,
+    "accuracy": 0.5958,
+    "dataset": "KT2",
+    "group": "diverse",
+    "models": [
+        "LSTM",
+        "SAKT",
+        "DKVMN",
+        "FCN",
+        "KQN"
+    ]
+}

@@ -1,0 +1,17 @@
+{
+    "auc": 0.6923,
+    "f1": 0.4457,
+    "accuracy": 0.6808,
+    "meta_weights": {
+        "RNN": 1.0694,
+        "LSTM": 3.0528,
+        "DKTPlus": 1.0694
+    },
+    "dataset": "assistChall",
+    "group": "rnn_family",
+    "models": [
+        "RNN",
+        "LSTM",
+        "DKTPlus"
+    ]
+}

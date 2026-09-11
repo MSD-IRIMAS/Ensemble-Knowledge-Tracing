@@ -1,0 +1,13 @@
+{
+    "auc": 0.7552,
+    "f1": 0.7321,
+    "accuracy": 0.6884,
+    "dataset": "nips_task_3_4",
+    "group": "cross_family",
+    "models": [
+        "LSTM",
+        "SAKT",
+        "DKVMN",
+        "KQN"
+    ]
+}

@@ -1,0 +1,13 @@
+{
+    "model": "LSTM",
+    "dataset": "nips_task_3_4",
+    "n_runs": 3,
+    "avg_auc": 0.76,
+    "std_auc": 0.018856180831641284,
+    "avg_f1": 0.7266666666666666,
+    "std_f1": 0.012472191289246483,
+    "avg_accuracy": 0.71,
+    "std_accuracy": 0.008164965809277268,
+    "avg_training_time": 96.03206332524617,
+    "avg_inference_time": 0.17165366808573404
+}

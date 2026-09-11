@@ -1,0 +1,16 @@
+{
+    "auc": 0.8464,
+    "f1": 0.7054,
+    "accuracy": 0.5942,
+    "dataset": "KT3",
+    "group": "all_models",
+    "models": [
+        "RNN",
+        "LSTM",
+        "FCN",
+        "DKVMN",
+        "SAKT",
+        "DKTPlus",
+        "KQN"
+    ]
+}

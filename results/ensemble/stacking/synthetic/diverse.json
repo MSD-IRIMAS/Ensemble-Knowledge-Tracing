@@ -1,0 +1,21 @@
+{
+    "auc": 0.8715,
+    "f1": 0.8355,
+    "accuracy": 0.7951,
+    "meta_weights": {
+        "LSTM": 2.9793,
+        "SAKT": 7.2222,
+        "DKVMN": -1.6524,
+        "FCN": -3.4627,
+        "KQN": 1.0702
+    },
+    "dataset": "synthetic",
+    "group": "diverse",
+    "models": [
+        "LSTM",
+        "SAKT",
+        "DKVMN",
+        "FCN",
+        "KQN"
+    ]
+}

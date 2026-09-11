@@ -1,0 +1,13 @@
+{
+    "model": "LSTM",
+    "dataset": "KT4",
+    "n_runs": 3,
+    "avg_auc": 0.80,
+    "std_auc": 0.0,
+    "avg_f1": 0.5633333333333334,
+    "std_f1": 0.00942809041582059,
+    "avg_accuracy": 0.5533333333333333,
+    "std_accuracy": 0.004714045207910321,
+    "avg_training_time": 416.6923979918162,
+    "avg_inference_time": 0.8564637502034506
+}

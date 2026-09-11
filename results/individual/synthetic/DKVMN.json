@@ -1,0 +1,13 @@
+{
+    "model": "DKVMN",
+    "dataset": "synthetic",
+    "n_runs": 3,
+    "avg_auc": 0.83,
+    "std_auc": 1.1102230246251565e-16,
+    "avg_f1": 0.7833333333333333,
+    "std_f1": 0.004714045207910321,
+    "avg_accuracy": 0.7566666666666667,
+    "std_accuracy": 0.004714045207910321,
+    "avg_training_time": 71.38073380788167,
+    "avg_inference_time": 1.3047642707824707
+}

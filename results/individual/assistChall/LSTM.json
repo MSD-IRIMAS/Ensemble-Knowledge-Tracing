@@ -1,0 +1,13 @@
+{
+    "model": "LSTM",
+    "dataset": "assistChall",
+    "n_runs": 3,
+    "avg_auc": 0.6866666666666666,
+    "std_auc": 0.004714045207910268,
+    "avg_f1": 0.4166666666666667,
+    "std_f1": 0.018856180831641256,
+    "avg_accuracy": 0.6466666666666666,
+    "std_accuracy": 0.009428090415820642,
+    "avg_training_time": 242.1342726548513,
+    "avg_inference_time": 3.017946163813273
+}

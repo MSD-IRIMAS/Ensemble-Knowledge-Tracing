@@ -1,0 +1,13 @@
+{
+    "model": "KQN",
+    "dataset": "assistChall",
+    "n_runs": 3,
+    "avg_auc": 0.73,
+    "std_auc": 0.0,
+    "avg_f1": 0.4566666666666666,
+    "std_f1": 0.009428090415820616,
+    "avg_accuracy": 0.6333333333333333,
+    "std_accuracy": 0.009428090415820642,
+    "avg_training_time": 35.816404263178505,
+    "avg_inference_time": 0.5397756099700928
+}

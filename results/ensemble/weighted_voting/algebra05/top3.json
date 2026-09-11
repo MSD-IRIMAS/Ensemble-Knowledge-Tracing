@@ -1,0 +1,17 @@
+{
+    "auc": 0.825,
+    "f1": 0.8852,
+    "accuracy": 0.8142,
+    "weights": {
+        "DKVMN": 0.83,
+        "KQN": 0.82,
+        "RNN": 0.79
+    },
+    "dataset": "algebra05",
+    "group": "top3",
+    "models": [
+        "DKVMN",
+        "KQN",
+        "RNN"
+    ]
+}

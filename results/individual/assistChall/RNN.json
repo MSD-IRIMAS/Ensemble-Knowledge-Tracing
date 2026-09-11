@@ -1,0 +1,13 @@
+{
+    "model": "RNN",
+    "dataset": "assistChall",
+    "n_runs": 3,
+    "avg_auc": 0.69,
+    "std_auc": 0.0,
+    "avg_f1": 0.4266666666666667,
+    "std_f1": 0.0262466929133727,
+    "avg_accuracy": 0.6233333333333334,
+    "std_accuracy": 0.018856180831641284,
+    "avg_training_time": 245.6233438650767,
+    "avg_inference_time": 3.089331944783529
+}

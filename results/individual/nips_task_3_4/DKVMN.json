@@ -1,0 +1,13 @@
+{
+    "model": "DKVMN",
+    "dataset": "nips_task_3_4",
+    "n_runs": 3,
+    "avg_auc": 0.71,
+    "std_auc": 1.1102230246251565e-16,
+    "avg_f1": 0.7200000000000001,
+    "std_f1": 1.1102230246251565e-16,
+    "avg_accuracy": 0.7200000000000001,
+    "std_accuracy": 1.1102230246251565e-16,
+    "avg_training_time": 218.17561403910318,
+    "avg_inference_time": 0.26797930399576825
+}

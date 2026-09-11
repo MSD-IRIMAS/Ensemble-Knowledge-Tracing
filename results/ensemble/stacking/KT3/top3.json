@@ -1,0 +1,17 @@
+{
+    "auc": 0.81,
+    "f1": 0.6838,
+    "accuracy": 0.5694,
+    "meta_weights": {
+        "SAKT": 6.2064,
+        "RNN": -3.8563,
+        "LSTM": 4.0021
+    },
+    "dataset": "KT3",
+    "group": "top3",
+    "models": [
+        "SAKT",
+        "RNN",
+        "LSTM"
+    ]
+}

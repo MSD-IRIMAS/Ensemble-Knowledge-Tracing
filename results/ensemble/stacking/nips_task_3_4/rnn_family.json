@@ -1,0 +1,17 @@
+{
+    "auc": 0.7486,
+    "f1": 0.6888,
+    "accuracy": 0.6436,
+    "meta_weights": {
+        "RNN": 7.3986,
+        "LSTM": -8.4922,
+        "DKTPlus": 7.3986
+    },
+    "dataset": "nips_task_3_4",
+    "group": "rnn_family",
+    "models": [
+        "RNN",
+        "LSTM",
+        "DKTPlus"
+    ]
+}

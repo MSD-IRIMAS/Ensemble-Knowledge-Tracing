@@ -1,0 +1,203 @@
+{
+    "algebra05": {
+        "best_individual_auc": 0.83,
+        "best_ensemble_auc": 0.8351,
+        "improvement": 0.0051,
+        "best_config": {
+            "strategy": "stacking",
+            "group": "diverse",
+            "models": [
+                "LSTM",
+                "SAKT",
+                "DKVMN",
+                "FCN",
+                "KQN"
+            ]
+        }
+    },
+    "assist2009": {
+        "best_individual_auc": 0.86,
+        "best_ensemble_auc": 0.867,
+        "improvement": 0.007,
+        "best_config": {
+            "strategy": "soft_voting",
+            "group": "rnn_family",
+            "models": [
+                "RNN",
+                "LSTM",
+                "DKTPlus"
+            ]
+        }
+    },
+    "assist2015": {
+        "best_individual_auc": 0.87,
+        "best_ensemble_auc": 0.8865,
+        "improvement": 0.0165,
+        "best_config": {
+            "strategy": "stacking",
+            "group": "top3",
+            "models": [
+                "SAKT",
+                "DKVMN",
+                "FCN"
+            ]
+        }
+    },
+    "assistChall": {
+        "best_individual_auc": 0.73,
+        "best_ensemble_auc": 0.718,
+        "improvement": -0.012,
+        "best_config": {
+            "strategy": "stacking",
+            "group": "all_models",
+            "models": [
+                "RNN",
+                "LSTM",
+                "FCN",
+                "DKVMN",
+                "SAKT",
+                "DKTPlus",
+                "KQN"
+            ]
+        }
+    },
+    "bridge_algebra06": {
+        "best_individual_auc": 0.74,
+        "best_ensemble_auc": 0.7623,
+        "improvement": 0.0223,
+        "best_config": {
+            "strategy": "stacking",
+            "group": "diverse",
+            "models": [
+                "LSTM",
+                "SAKT",
+                "DKVMN",
+                "FCN",
+                "KQN"
+            ]
+        }
+    },
+    "kddcup2010": {
+        "best_individual_auc": 0.82,
+        "best_ensemble_auc": 0.8333,
+        "improvement": 0.0133,
+        "best_config": {
+            "strategy": "stacking",
+            "group": "cross_family",
+            "models": [
+                "LSTM",
+                "SAKT",
+                "DKVMN",
+                "KQN"
+            ]
+        }
+    },
+    "KT2": {
+        "best_individual_auc": 0.85,
+        "best_ensemble_auc": 0.8615,
+        "improvement": 0.0115,
+        "best_config": {
+            "strategy": "stacking",
+            "group": "diverse",
+            "models": [
+                "LSTM",
+                "SAKT",
+                "DKVMN",
+                "FCN",
+                "KQN"
+            ]
+        }
+    },
+    "KT3": {
+        "best_individual_auc": 0.84,
+        "best_ensemble_auc": 0.86,
+        "improvement": 0.02,
+        "best_config": {
+            "strategy": "stacking",
+            "group": "diverse",
+            "models": [
+                "LSTM",
+                "SAKT",
+                "DKVMN",
+                "FCN",
+                "KQN"
+            ]
+        }
+    },
+    "KT4": {
+        "best_individual_auc": 0.83,
+        "best_ensemble_auc": 0.8202,
+        "improvement": -0.0098,
+        "best_config": {
+            "strategy": "soft_voting",
+            "group": "top3",
+            "models": [
+                "SAKT",
+                "KQN",
+                "RNN"
+            ]
+        }
+    },
+    "nips_task_3_4": {
+        "best_individual_auc": 0.77,
+        "best_ensemble_auc": 0.786,
+        "improvement": 0.016,
+        "best_config": {
+            "strategy": "weighted_voting",
+            "group": "cross_family",
+            "models": [
+                "LSTM",
+                "SAKT",
+                "DKVMN",
+                "KQN"
+            ]
+        }
+    },
+    "spanish": {
+        "best_individual_auc": 0.83,
+        "best_ensemble_auc": 0.8447,
+        "improvement": 0.0147,
+        "best_config": {
+            "strategy": "soft_voting",
+            "group": "cross_family",
+            "models": [
+                "LSTM",
+                "SAKT",
+                "DKVMN",
+                "KQN"
+            ]
+        }
+    },
+    "statics": {
+        "best_individual_auc": 0.83,
+        "best_ensemble_auc": 0.8465,
+        "improvement": 0.0165,
+        "best_config": {
+            "strategy": "stacking",
+            "group": "top3",
+            "models": [
+                "KQN",
+                "LSTM",
+                "DKVMN"
+            ]
+        }
+    },
+    "synthetic": {
+        "best_individual_auc": 0.83,
+        "best_ensemble_auc": 0.8716,
+        "improvement": 0.0416,
+        "best_config": {
+            "strategy": "stacking",
+            "group": "all_models",
+            "models": [
+                "RNN",
+                "LSTM",
+                "FCN",
+                "DKVMN",
+                "SAKT",
+                "DKTPlus",
+                "KQN"
+            ]
+        }
+    }
+}

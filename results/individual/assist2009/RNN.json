@@ -1,0 +1,13 @@
+{
+    "model": "RNN",
+    "dataset": "assist2009",
+    "n_runs": 3,
+    "avg_auc": 0.83,
+    "std_auc": 0.0,
+    "avg_f1": 0.8533333333333334,
+    "std_f1": 0.004714045207910321,
+    "avg_accuracy": 0.8066666666666666,
+    "std_accuracy": 0.004714045207910321,
+    "avg_training_time": 856.2886429627737,
+    "avg_inference_time": 9.785386323928833
+}

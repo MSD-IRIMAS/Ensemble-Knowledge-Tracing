@@ -1,0 +1,13 @@
+{
+    "model": "RNN",
+    "dataset": "KT3",
+    "n_runs": 3,
+    "avg_auc": 0.83,
+    "std_auc": 0.008164965809277268,
+    "avg_f1": 0.6733333333333333,
+    "std_f1": 0.012472191289246433,
+    "avg_accuracy": 0.59,
+    "std_accuracy": 0.0,
+    "avg_training_time": 418.5924011866252,
+    "avg_inference_time": 0.7166562875111898
+}

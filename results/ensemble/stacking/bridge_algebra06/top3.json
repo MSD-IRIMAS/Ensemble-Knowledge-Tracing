@@ -1,0 +1,17 @@
+{
+    "auc": 0.7456,
+    "f1": 0.9079,
+    "accuracy": 0.8372,
+    "meta_weights": {
+        "KQN": 5.7854,
+        "LSTM": 1.0289,
+        "DKVMN": -0.2954
+    },
+    "dataset": "bridge_algebra06",
+    "group": "top3",
+    "models": [
+        "KQN",
+        "LSTM",
+        "DKVMN"
+    ]
+}

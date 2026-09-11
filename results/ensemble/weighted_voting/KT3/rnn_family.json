@@ -1,0 +1,17 @@
+{
+    "auc": 0.8023,
+    "f1": 0.6898,
+    "accuracy": 0.5751,
+    "weights": {
+        "RNN": 0.83,
+        "LSTM": 0.83,
+        "DKTPlus": 0.8
+    },
+    "dataset": "KT3",
+    "group": "rnn_family",
+    "models": [
+        "RNN",
+        "LSTM",
+        "DKTPlus"
+    ]
+}

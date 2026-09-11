@@ -1,0 +1,16 @@
+{
+    "auc": 0.8403,
+    "f1": 0.8877,
+    "accuracy": 0.8209,
+    "dataset": "spanish",
+    "group": "all_models",
+    "models": [
+        "RNN",
+        "LSTM",
+        "FCN",
+        "DKVMN",
+        "SAKT",
+        "DKTPlus",
+        "KQN"
+    ]
+}

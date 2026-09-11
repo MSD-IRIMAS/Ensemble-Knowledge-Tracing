@@ -1,0 +1,12 @@
+{
+    "auc": 0.867,
+    "f1": 0.8576,
+    "accuracy": 0.7912,
+    "dataset": "assist2009",
+    "group": "rnn_family",
+    "models": [
+        "RNN",
+        "LSTM",
+        "DKTPlus"
+    ]
+}

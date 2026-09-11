@@ -1,0 +1,12 @@
+{
+    "wins_per_strategy": {
+        "soft_voting": 19,
+        "weighted_voting": 12,
+        "stacking": 34
+    },
+    "avg_auc_per_strategy": {
+        "soft_voting": 0.7467,
+        "weighted_voting": 0.747,
+        "stacking": 0.7434
+    }
+}

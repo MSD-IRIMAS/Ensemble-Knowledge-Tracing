@@ -1,0 +1,16 @@
+{
+    "auc": 0.7533,
+    "f1": 0.7328,
+    "accuracy": 0.6893,
+    "dataset": "nips_task_3_4",
+    "group": "all_models",
+    "models": [
+        "RNN",
+        "LSTM",
+        "FCN",
+        "DKVMN",
+        "SAKT",
+        "DKTPlus",
+        "KQN"
+    ]
+}

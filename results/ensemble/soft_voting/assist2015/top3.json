@@ -1,0 +1,12 @@
+{
+    "auc": 0.7541,
+    "f1": 0.837,
+    "accuracy": 0.7364,
+    "dataset": "assist2015",
+    "group": "top3",
+    "models": [
+        "SAKT",
+        "DKVMN",
+        "FCN"
+    ]
+}
