@@ -68,7 +68,7 @@ Each `.csv` file should follow a three-line structure for each interaction seque
 
 ## License
 
-This project is licensed under the [MIT License](LICENSE).
+This project is licensed under the [MIT License](Lisence).
 
 ## Acknowledgement
 
